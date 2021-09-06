@@ -12,7 +12,7 @@
 [![Bot Updates](https://img.shields.io/badge/VideoPlayerBot-Updates%20Channel-green)](https://t.me/AsmSafone)
 [![Bot Support](https://img.shields.io/badge/VideoPlayerBot-Support%20Group-blue)](https://t.me/safothebot)
 
-An Telegram Bot By [@AsmSafone](https://t.me/AsmSafone) To Stream Videos in Telegram Voice Chat.
+An Telegram Bot By [@paramarmy](https://t.me/paramarmy) To Stream Videos in Telegram Voice Chat.
 
 ## Main Features
 
