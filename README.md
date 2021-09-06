@@ -60,7 +60,7 @@ endstream - Stop Video Streaming
 
 ## Self Host
 ```sh
-$ git clone https://github.com/AsmSafone/VideoPlayerBot.git
+$ git clone https://github.com/parmmastro/VideoPlayerBot
 $ cd VideoPlayerBot
 $ sudo apt-get install python3-pip ffmpeg
 $ pip3 install -U pip
@@ -91,7 +91,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 
 ## Credits
 
-- [Me](https://github.com/AsmSafone) for [Noting](https://github.com/AsmSafone/VideoPlayerBot) 😬
+- [Me](https://github.com/parammastro) for [Noting](https://github.com/parmmastro/VideoPlayerBot) 😬
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
 - [MarshalX](https://github.com/MarshalX) for [pytgcalls](https://github.com/MarshalX/tgcalls) ❤️
-- And Thanks To All [Contributors](https://github.com/AsmSafone/VideoPlayerBot/graphs/contributors)! ❤️
+- And Thanks To All [Contributors](https://github.com/parmmastro/VideoPlayerBot)! ❤️
